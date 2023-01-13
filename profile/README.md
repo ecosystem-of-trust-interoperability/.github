@@ -12,7 +12,7 @@ A collaborative alliance across government, industry and academia which is:
 
 ## About
 
-Information about interop workshops, information captured during workshops and co-design material for the Interoperability Working Group will reside in a private incubator repository to which participants in the group will be invited. As content matures into models, designs, protocols and frameworks it will be moved to public repositories once agreement is obtained from all required parties.
+Information about interop workshops, information captured during workshops and co-design material for the Interoperability Working Group will reside in a 🔒 **private** incubator repository to which participants in the group will be invited. As content matures into models, designs, protocols and frameworks it will be **migrated** to 📢 **public** repositories once agreement is obtained from all required parties.
 
 ## Getting started
 
