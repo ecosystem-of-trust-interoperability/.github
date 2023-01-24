@@ -22,4 +22,8 @@ Information about interop workshops, information captured during workshops and c
 
 [Getting started](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/getting-started.md)
 
+### Terms of reference
+
+[Terms of reference](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/terms-of-reference.md)
+
 
