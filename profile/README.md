@@ -19,6 +19,7 @@ Information about interop workshops, information captured during workshops and c
 ## Important resources and repositories
 
 - [Getting started](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/getting-started.md)
+- [The important questions](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/the-important-questions.md)
 - [EoT model](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/EoT-model.md)
 - [Interoperabililty framework](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/terms-of-reference.md)
 - [Terms of reference](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/terms-of-reference.md)
