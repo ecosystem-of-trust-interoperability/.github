@@ -1,4 +1,4 @@
-⚠️ *This and all associated organisational repositories are a part of the Ecosystem of Trust pilots initiative at this time and as such this is all innovation based work and thinking. This is a 🔒 **private** repository - participants will be invited in. Sensitive documents and information must not be added to the repositories within this Github organisation.*
+⚠️ *This and all associated organisational repositories are a part of the Ecosystem of Trust pilots initiative at this time and as such this is all innovation based work and thinking. The EoT initiative will currently run through until the 31st March. This is a 🔒 **private** repository - participants will be invited in. Sensitive documents and information must not be added to the repositories within this Github organisation. For more details please see the [Terms of Reference](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/interoperability-framework.md)*.
 
 # The Ecosystem of Trust interoperability working group
 
