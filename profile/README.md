@@ -16,6 +16,10 @@ Each week through community activity and the drop-in session we will be looking 
 
 We will link the weeks workshop page ℹ️ **[here](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/workshops/2023-01-27_workshop-2_kickoff.md)**.
 
+## Drop in session schedule
+
+We will be running drop in sessions very week please see the ℹ️ [schedule](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/drop-in-sessions-schedule.md).
+
 ## About
 
 Information about interop workshops, information captured during workshops and co-design material for the Interoperability Working Group will reside in a 🔒 **private** incubator repository to which participants in the group will be invited. As content matures into models, designs, protocols and frameworks it will be **migrated** to 📢 **public** repositories once agreement is obtained from all required parties.
