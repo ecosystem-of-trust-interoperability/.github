@@ -14,11 +14,11 @@ A collaborative alliance across government, industry and academia which is:
 
 Each week through community activity and the drop-in session we will be looking at specific problems and co-discovering and co-designing solutions.
 
-We will link the weeks workshop page *Wed 1st February* ℹ️ **[here](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/workshops/2023-02-01_drop-in-1.md)**.
+This weeks link *Wed 1st February* ℹ️ **[here](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/workshops/2023-02-01_drop-in-1.md)**.
 
 ## Last week's focus
 
-We will link last weeks drop-in session - *Thu 26th and Fri 27th Jan* ℹ️ **[here](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/workshops/2023-01-27_workshop-2_kickoff.md)**.
+Last weeks link - *Thu 26th and Fri 27th Jan* ℹ️ **[here](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/workshops/2023-01-27_workshop-2_kickoff.md)**.
 
 ## Drop in session schedule
 
