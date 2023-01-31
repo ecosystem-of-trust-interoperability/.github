@@ -14,7 +14,7 @@ A collaborative alliance across government, industry and academia which is:
 
 Each week through community activity and the drop-in session we will be looking at specific problems and co-discovering and co-designing solutions.
 
-This weeks link *Wed 1st February* ℹ️ **[here](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/workshops/2023-02-01_drop-in-1.md)**.
+This weeks link *Wed 1st February* ℹ️ **[here](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/README.md)**.
 
 ## Last week's focus
 
