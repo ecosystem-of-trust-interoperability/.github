@@ -10,20 +10,6 @@ A collaborative alliance across government, industry and academia which is:
 4. co-designing, co-creating and running an open, scalable, extensible, repeatable and sustainable model for information sharing
 5. co-designing and co-creating the protocols and governance frameworks necessary to create and scale the EoT model
 
-## This week's focus
-
-Each week through community activity and the drop-in session we will be looking at specific problems and co-discovering and co-designing solutions.
-
-This weeks link *Wed 1st February* ℹ️ **[here](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/README.md)**.
-
-## Last week's focus
-
-Last weeks link - *Thu 26th and Fri 27th Jan* ℹ️ **[here](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/workshops/2023-01-27_workshop-2_kickoff.md)**.
-
-## Drop in session schedule
-
-We will be running drop in sessions every week please see the ℹ️ [schedule](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group/blob/main/drop-in-sessions-schedule.md).
-
 ## About
 
 Information about interop workshops, information captured during workshops and co-design material for the Interoperability Working Group will reside in a 🔒 **private** incubator repository to which participants in the group will be invited. As content matures into models, designs, protocols and frameworks it will be **migrated** to 📢 **public** repositories once agreement is obtained from all required parties.
