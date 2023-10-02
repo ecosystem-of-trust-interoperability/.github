@@ -14,7 +14,7 @@ A collaborative alliance across government, industry and academia which is:
 
 Information about interop workshops, information captured during workshops and co-design material for the Interoperability Working Group will reside in a 🔒 **private** incubator repository to which participants in the group will be invited. As content matures into models, designs, protocols and frameworks it will be **migrated** to 📢 **public** repositories once agreement is obtained from all required parties.
 
-[Introduction to the Interoperability Working Group](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group)
+[Incubator repository for the Interoperability Working Group](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group)
 
 ## Important resources and repositories
 
